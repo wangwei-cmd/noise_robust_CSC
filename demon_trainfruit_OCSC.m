@@ -21,7 +21,7 @@ S0=S0.b;
 % gammav=10;
 % gammac=10;
 
-alpha=0.001;
+alpha=0.1;
 lambda=0.02;
 gammaq=10;
 gammav=10;
