@@ -9,9 +9,9 @@ M=size(d1,3);
 
 % alpha=0.6;
 % lambda=.01;
-alpha=0.6;
+alpha=0.7;
 lambda=.01; 
-gammaq=1/alpha;gammav=1/alpha;gammac=1/alpha;maxiter=250;tol=1e-3;
+gammaq=1/alpha;gammav=1/alpha;gammac=1/alpha;maxiter=220;tol=1e-3;
 gammaq=gpuArray(gammaq);gammav=gpuArray(gammav);gammac=gpuArray(gammac);
 lambda=gpuArray(lambda);alpha=gpuArray(alpha);
 % dixi=cell(1,10);
