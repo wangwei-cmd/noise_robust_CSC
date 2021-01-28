@@ -7,4 +7,4 @@ To train the dictionary using clear fruit data or city data, run demon_trainfrui
 
 To train the dictionary using noisy fruit data, run trainwithnoise_fruit.m.
 
-To denoise Poisson noisy image, run denoise_peak_30.m.
+To produce the denoised results described in Table II of our manuscript, run Table2.m.
